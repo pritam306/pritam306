@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🫴🏻🫴🏻 Connect With Me
 <p align="center">
 <a href="https://github.com/pritam306"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
@@ -24,8 +24,6 @@
 </p>
 
 ---
-
-## 🛠 Tech Stack
 
 ### 🚀 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -36,7 +34,7 @@
 
 ---
 
-### ⚙ Tools & Platforms
+### 🪚🪚 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)

@@ -17,7 +17,7 @@
 ---
 
 ## 🫴🏻🫴🏻 Connect With Me
-<p align="center">
+<p align="left">
 <a href="https://github.com/pritam306"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>

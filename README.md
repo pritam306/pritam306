@@ -44,7 +44,7 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=pritam306&show_icons=true&theme=radical">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pritam306&show_icons=true&theme=radical">
 
 <img src="https://streak-stats.demolab.com?user=pritam306&theme=radical">
 

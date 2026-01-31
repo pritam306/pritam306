@@ -46,19 +46,21 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pritam306&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pritam306&show_icons=true&theme=radical" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pritam306&theme=radical" width="48%"/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=pritam306&theme=radical" />
 </p>
 
 ---
 
 ## 🏆📌 Top Languages
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam306&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam306&layout=compact&theme=radical" />
 </p>
 
----
 
 ### 📃 Visitor Count
 <p align="center">
@@ -67,4 +69,5 @@
 
 ---
 
-⭐ *"Building creative web experiences & learning every day!"*
+⭐ *"An engineer’s true strength isn’t just in building systems, 
+but in building them with integrity, responsibility, and respect for humanity. ITS OUR MORAL ETHICS"*

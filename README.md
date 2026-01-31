@@ -51,9 +51,8 @@
 
 ## 🏆📌 Top Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritam306&layout=compact&theme=radical" />
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pritam306&layout=compact&theme=radical">
+
 
 
 ### 📃 Visitor Count

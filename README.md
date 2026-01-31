@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pritam</h1>
-<h3 align="center">Web Developer | Coding Enthusiast</h3>
+<h1 align="center"> 𝙿𝚁𝙸𝚃𝙰𝙼 𝟹𝟶𝟼 </h1>
+<h3 align="center">𝚆𝙴𝙱 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 | 𝙲𝙾𝙳𝙸𝙽𝙶 𝙴𝙽𝚃𝙷𝚄𝚂𝙸𝙰𝚂𝚃</h3>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Frontend+Developer;Tech+Explorer;Learning+Every+Day">

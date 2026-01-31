@@ -26,7 +26,7 @@
 
 ---
 
-### 🚀 Languages
+### 🔡 Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
@@ -35,7 +35,7 @@
 
 ---
 
-### 🪚🪚 Tools & Platforms
+### 🪚 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -44,14 +44,10 @@
 ---
 
 ## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=pritam306&show_icons=true&theme=radical">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritam306&show_icons=true&theme=radical" />
-</p>
+<img src="https://streak-stats.demolab.com?user=pritam306&theme=radical">
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=pritam306&theme=radical" />
-</p>
 
 ---
 

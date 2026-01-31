@@ -51,8 +51,7 @@
 
 ## 🏆📌 Top Languages
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pritam306&layout=compact&theme=radical">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritam306&theme=radical">
 
 
 ### 📃 Visitor Count

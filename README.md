@@ -51,7 +51,7 @@
 
 ## 🏆📌 Top Languages
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pritam306&theme=radical">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritam306&theme=radical">
 
 
 ### 📃 Visitor Count
@@ -62,4 +62,4 @@
 ---
 
 ⭐ *"An engineer’s true strength isn’t just in building systems, 
-but in building them with integrity, responsibility, and respect for humanity. ITS OUR MORAL ETHICS"*
+but in building them with integrity, responsibility, and respect for humanity. ITS OUR MORAL ETHICS"*  - PRITAM

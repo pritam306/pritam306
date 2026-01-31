@@ -36,13 +36,6 @@
 </a>
 </p>
 
-<p align="left">
-<img src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram">
-<img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail">
-</p>
-
 ---
 
 ### 🚀 Languages

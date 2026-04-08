@@ -8,11 +8,11 @@
 
 ---
 
-# 🧬 About Me
-- 🎓 Student & Tech Learner  
-- 💡 Passionate about Web Development  
-- 💎 Exploring Modern JavaScript & UI Design  
-- 🔥 Love building creative websites  
+# About Me
+- Student & Tech Learner  
+- Passionate about Web Development  
+- Exploring Modern JavaScript & UI Design  
+- Love building creative websites  
 
 ---
 
@@ -55,18 +55,18 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <img src="https://streak-stats.demolab.com?user=pritam306&theme=radical">
 
 
 ---
 
-## 🏆📌 Top Languages
+##  Top Languages
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pritam306&theme=radical">
 
 
-### 📃 Visitor Count
+### Visitor Count
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pritam306&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
